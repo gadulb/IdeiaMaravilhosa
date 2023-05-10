@@ -82,7 +82,7 @@ export default function App() {
         />
         <Button
           labelStyle={{ fontWeight: "bold", fontSize: 15 }}
-          textColor="black"
+          textColor="white"
           style={styles.botao} onPress={cadastrarProduto}>Cadastrar</Button>
         <StatusBar style="auto" />
       </View>
